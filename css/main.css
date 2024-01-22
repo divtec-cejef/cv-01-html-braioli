@@ -1,25 +1,37 @@
 html {
-    background-image:url(https://i.pinimg.com/564x/f0/17/72/f01772cdca221eb2a66bdf4a18b63bf6.jpg);
+    background-image: url(https://i.pinimg.com/564x/f0/17/72/f01772cdca221eb2a66bdf4a18b63bf6.jpg);
 }
+
 h1 {
     color: #AB4967;
     font-size: 48px;
 }
-#liste{
+
+#liste {
     color: #CD4C2C;
 }
+
 p {
     font-size: 1.5rem;
 }
+
 #compétences, #formation {
     font-size: 25px;
 }
+
 header {
     padding: 5px;
 }
+
 footer {
     margin: 10px;
 }
+
 .center {
     text-align: center;
 }
+
+.police {
+    font-family: "Roboto Mono", serif;
+}
+
