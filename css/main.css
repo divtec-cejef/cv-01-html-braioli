@@ -2,9 +2,16 @@ html {
     background-image: url(https://i.pinimg.com/564x/f0/17/72/f01772cdca221eb2a66bdf4a18b63bf6.jpg);
 }
 
+body {
+    max-width: 800px; /* Largeur maximale de la page */
+    margin: 0 auto; /* Centre la page horizontalement */
+}
+
 h1 {
     color: #AB4967;
     font-size: 48px;
+    border: 3px solid saddlebrown;
+    box-shadow: 5px 5px 10px;
 }
 
 #liste {
@@ -35,3 +42,11 @@ footer {
     font-family: "Roboto Mono", serif;
 }
 
+a {
+    color: darkviolet; /* Couleur de base du texte */
+    text-decoration: none; /* Supprime le soulignement par défaut */
+}
+
+a:hover {
+    color: #AB4967; /* Nouvelle couleur de texte au survol */
+}
