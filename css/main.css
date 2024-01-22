@@ -1,5 +1,5 @@
 html {
-    background-color:#9DE1FB;
+    background-image:url(https://i.pinimg.com/564x/f0/17/72/f01772cdca221eb2a66bdf4a18b63bf6.jpg);
 }
 h1 {
     color: #AB4967;
@@ -20,6 +20,6 @@ header {
 footer {
     margin: 10px;
 }
-#center {
+.center {
     text-align: center;
 }
