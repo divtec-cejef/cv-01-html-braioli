@@ -1,9 +1,9 @@
 html {
-    background-image: url(https://i.pinimg.com/564x/f0/17/72/f01772cdca221eb2a66bdf4a18b63bf6.jpg);
+    background-color: #edc4b3;
 }
 
 body {
-    max-width: 800px; /* Largeur maximale de la page */
+    max-width: 10000px; /* Largeur maximale de la page */
     margin: 0 auto; /* Centre la page horizontalement */
 }
 
@@ -15,7 +15,7 @@ h1 {
 }
 
 #liste {
-    color: #CD4C2C;
+    color: #9a031e;
 }
 
 p {
@@ -34,10 +34,14 @@ footer {
     margin: 10px;
 }
 
-.center {
-    text-align: center;
+.center, .centrer {
+    text-align: center;;
+
 }
 
+.centrer {
+    background-image: url(https://i.pinimg.com/736x/71/f0/4f/71f04f5d071de191b067a54e8e4993bc.jpg);
+}
 .police {
     font-family: "Roboto Mono", serif;
 }
